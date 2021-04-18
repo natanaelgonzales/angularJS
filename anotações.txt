@@ -1,0 +1,8 @@
+$scope -> conversa no DOM, usado para interpolar variáveis
+$log -> imprime infos
+$timeout -> roda a função após x ms
+$filter -> filtra string, ex lowercase
+$scope.apply -> digest cicle fora do contexto do angular
+ng-if -> if no html
+ng-hide/ng-show -> oculta/mostra o elemento sem remover do DOM
+ng-repeat -> mostra todos elementos
