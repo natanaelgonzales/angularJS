@@ -1,0 +1,19 @@
+{
+    "RuleName": {
+      "data": [
+        {
+          "id": "1",
+          "RuleName": "Must be 5 characters"
+        },
+        {
+          "id": "2",
+          "RuleName": "Must not be used elsewhere"
+        },
+        {
+          "id": "3",
+          "RuleName": "Must be cool"
+        }
+      ]
+    }
+}
+
