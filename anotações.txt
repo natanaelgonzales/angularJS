@@ -6,3 +6,8 @@ $scope.apply -> digest cicle fora do contexto do angular
 ng-if -> if no html
 ng-hide/ng-show -> oculta/mostra o elemento sem remover do DOM
 ng-repeat -> mostra todos elementos
+
+Directive:
+restrict -> E, restrige ao elemento, A restringe ao atributo (padrão angularjs é EA), C, class e M comentários
+template -> modelo a ser usado
+replace -> exibe ou não a customTag
